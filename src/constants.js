@@ -26,7 +26,8 @@ var CONSTANTS = {
     position: 'tr',
     autoDismiss: 5,
     dismissible: 'both',
-    action: null
+    action: null,
+    image: null
   }
 };
 
